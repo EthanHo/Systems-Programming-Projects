@@ -1,0 +1,19 @@
+Andrew McKinney ajm458
+Ethan Ho eh479
+
+to compile project just use command 'make'
+to test project use 'make test'
+
+
+Tested situations:
+Lots of extra whitespace
+ending in extra enters
+many too large words
+lots of special characters
+
+tested using example found in the writeup (hi there hi there) vs (hi there out there)
+same files have distance of 0
+completely different files have distance of 1
+
+used "make test" to test
+

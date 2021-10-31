@@ -1,0 +1,13 @@
+Andrew McKinney ajm458
+Ethan Ho eh479
+
+to compile project just use command 'make'
+to test project use 'make test'
+default port is 5722 for the test
+
+
+Tested situations:
+More than one thread running at a time
+Sending the SIGINT command at random times
+always works =D
+
